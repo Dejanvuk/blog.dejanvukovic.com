@@ -1,0 +1,18 @@
+baseURL = "https://dejan-blog.pages.dev/"
+languageCode = "en-us"
+title = "Dejan Vuković"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Dejan's blog"
+  Content = "Notes on things I build."
+
+[[menu.main]]
+  name = "Home"
+  url = "https://dejanvukovic-com.dejan-vuk114.workers.dev"
+  weight = 1
