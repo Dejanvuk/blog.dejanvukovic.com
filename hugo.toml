@@ -4,6 +4,7 @@ title = "Dejan Vuković"
 theme = "PaperMod"
 
 [params]
+  comments = true
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
