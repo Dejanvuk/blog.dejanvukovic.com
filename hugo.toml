@@ -1,4 +1,4 @@
-baseURL = "https://blog-dejanvukovic-com.pages.dev/"
+baseURL = "https://blog.dejanvukov.com/"
 languageCode = "en-us"
 title = "Dejan Vuković"
 theme = "PaperMod"
@@ -15,5 +15,5 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "Home"
-  url = "https://dejanvukovic-com.dejan-vuk114.workers.dev"
+  url = "https://dejanvukov.com/"
   weight = 1
